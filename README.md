@@ -6,10 +6,14 @@ Basically, it's for [NES.css](https://github.com/nostalgic-css/NES.css)
 
 ```html
 <head>
-  <link href="https://unpkg.com/font-misaki/index.css" rel="stylesheet">
+  <link href="https://unpkg.com/font-misaki/misaki_gothic.css" rel="stylesheet">
+  <link href="https://unpkg.com/font-misaki/misaki_mincho.css" rel="stylesheet">
   <style>
-    html, body, pre, code, kbd, samp {
-      font-family: "misaki";
+    #misaki_gothic {
+      font-family: "misaki_gothic";
+    }
+    #misaki_mincho {
+      font-family: "misaki_mincho";
     }
   </style>
 </head>

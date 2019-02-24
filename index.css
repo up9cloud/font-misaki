@@ -1,9 +1,0 @@
-@font-face {
-  font-family: 'misaki';
-  font-style: normal;
-  font-weight: 400;
-  src: url(./misaki/misaki_gothic.ttf) format('truetype'),
-    url(./misaki/misaki_mincho.ttf) format('truetype');
-  /* unicode-range: U+0000-FFFF; */
-}
-
